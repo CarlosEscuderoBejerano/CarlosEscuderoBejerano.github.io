@@ -1,6 +1,6 @@
 ---
-title: home
 permalink: /
+layout: home
 ---
 
 ## Welcome to {{site.title}} {{page.title}} 

@@ -14,8 +14,6 @@ main:
     url: /tags/
   - title: "Members"
     url: /members/
-  - title: "kiko"
-    url: /kiko/
   - title: "External Link"
     url: https://google.com
 foo:
@@ -34,7 +32,3 @@ foo:
     url: /tags/
   - title: "Members"
     url: /members/
-  - title: "kiko"
-    url: /kiko/
-  - title: "External Link"
-    url: https://google.com
