@@ -1,0 +1,12 @@
+[
+    { "nombre": "Oscar", "edad": 99, "sexo": "M" },
+    { "nombre": "Laura", "edad": 19, "sexo": "F" },
+    { "nombre": "Juan", "edad": 32, "sexo": "M" },
+    { "nombre": "Ana", "edad": 25, "sexo": "F" },
+    { "nombre": "Roberto", "edad": 27, "sexo": "M" },
+    { "nombre": "Raquel", "edad": 22, "sexo": "F" },
+    { "nombre": "Javier", "edad": 17, "sexo": "M" },
+    { "nombre": "Sandra", "edad": 28, "sexo": "F" },
+    { "nombre": "Mario", "edad": 24, "sexo": "M" },
+    { "nombre": "Julia", "edad": 41, "sexo": "F"}
+]

@@ -46,3 +46,6 @@ t:
 navigation_pages:
   - home.md
   - index.md
+  - mas.md
+  - post.md
+  - member.md

@@ -11,4 +11,4 @@ author:
   name: John Doe
   twitter: johndoetwitter
 
-comments: false
+comments: true
