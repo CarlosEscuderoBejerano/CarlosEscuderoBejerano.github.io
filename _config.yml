@@ -1,6 +1,39 @@
 
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
+# Site Settings
+lang: en-US
+title: Basically Basic
+email: dugan.nash@mailinator.com
+description: "Your new default Jekyll theme"
+baseurl: "/jekyll-theme-basically-basic"
+url: "https://mmistakes.github.io"
+repository: "mmistakes/minimal-mistakes"
+author:
+  name: Dugan Nash
+  twitter: Towlette_Pettetucci
+  picture: /assets/images/johndoe.png
+twitter_username: Towlette_Pettetucci
+github_username: Towlette_Pettetucci
+logo: /assets/icons/basically-basic-logo-light.svg
+google_analytics: UA-2011187-6
+disqus:
+  shortname:
+search: true
+search_full_content: true
+search_provider: lunr
+algolia:
+  application_id: # YOUR_APPLICATION_ID
+  index_name: # YOUR_INDEX_NAME
+  search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
+  powered_by: # true (default), false
 
 # Conversion
 markdown: kramdown
@@ -44,7 +77,17 @@ feed:
 paginate: 10
 paginate_path: /page:num/
 
-
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
 
 # Collections
 collections:
