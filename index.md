@@ -12,6 +12,7 @@ permalink: /index
 {% endfor %}
 </ul>
  
+![Image]({{ site.url }}/assets/img/naruto.jpg)
 
 <ul>
   {% for post in site.posts %}
