@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "post antiguo"
 tags: prueba
 categories: 

@@ -75,3 +75,8 @@ defaults:
     values:
       layout: post
       read_time: true
+
+  #analiticks 
+  google_analytics: G-S5YE7RLMY5
+
+  
